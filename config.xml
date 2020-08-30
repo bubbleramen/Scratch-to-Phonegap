@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "sharkball.vaniv20.edu.mit.scratch"
+        id          = "sharkmathstrivia.vaniv20.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>SharkBall</name>
+    <name>Shark Maths Trivia</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+        Beat the shark at maths - if your score is 5 or up, you win!
     </description>
 
     <author href="http://scratch.mit.edu/users/vaniv20" email="12vanivasan@gmail.com">
